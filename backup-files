@@ -11,8 +11,12 @@ web
 3
 33
 333
+inc
 backup
 data
+setup
+index
+test
 database
 admin
 v
@@ -88,7 +92,7 @@ user
 access
 d
 dbback
-email
+config
 h
 host
 log
